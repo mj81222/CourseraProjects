@@ -5,3 +5,4 @@ This repo is dedicated to assignments and projects completed by me in the Applie
 Date | Course | Assignment | Objectives | File
 --- | --- | --- | --- | ---
 01/06/23 | Python for Data Science, AI, & Development | First Program, Type, Expressions, and Variables | Learn basics of coding in Python | PY0101EN-1-1-Write_your_first_python_code.ipynb
+01/06/23 | Python for Data Science, AI, & Development | Strings | Learn how to use strings in Python | PY0101EN-1-2-Strings.ipynb
