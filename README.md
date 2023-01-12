@@ -10,3 +10,4 @@ Date | Course | Week | Assignment | Objectives | File
 01/09/23 | Python for Data Science, AI, & Development | 2 | Tuples | Learn how to use tuples in Python | PY0101EN-2-1-Tuples.ipynb
 01/09/23 | Python for Data Science, AI, & Development | 2 | Dictionaries | Learn how to use dictionaries in Python | PY0101EN-2-4-Dictionaries.ipynb
 01/09/23 | Python for Data Science, AI, & Development | 2 | Sets | Learn how to use sets in Python | PY0101EN-2-3-Sets.ipynb
+01/12/23 | Python for Data Science, AI, & Development | 3 | Conditions & Branching | Learn about conditional statements and if/else statements in Python | PY0101EN-3-1-Conditions.ipynb
